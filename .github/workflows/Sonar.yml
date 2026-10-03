@@ -42,3 +42,4 @@ jobs:
           -Dsonar.host.url=https://sonarcloud.io
           -Dsonar.organization=dennismorales12
           -Dsonar.projectKey=dennismorales12_WebGoat
+          -Dsonar.sources=src/main
